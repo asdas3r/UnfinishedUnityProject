@@ -1,0 +1,176 @@
+{
+    "localizationStrings": [
+        {
+            "key": "login_label",
+            "value": "Введите имя профиля:"
+        },
+        {
+            "key": "login_btn",
+            "value": "Продолжить"
+        },
+        {
+            "key": "menu_start",
+            "value": "Играть"
+        },
+        {
+            "key": "menu_settings",
+            "value": "Настройки"
+        },
+        {
+            "key": "menu_quit",
+            "value": "Выйти"
+        },
+        {
+            "key": "menu_bot",
+            "value": "Справка"
+        },
+        {
+            "key": "play_create_label",
+            "value": "Создать игру"
+        },
+        {
+            "key": "play_create_name_placeholder",
+            "value": "Введите название игры..."
+        },
+        {
+            "key": "play_create_password_placeholder",
+            "value": "Введите пароль..."
+        },
+        {
+            "key": "play_create_btn",
+            "value": "Создать"
+        },
+        {
+            "key": "play_join_label",
+            "value": "Присоединиться к игре"
+        },
+        {
+            "key": "play_join_label_name",
+            "value": "Название игры"
+        },
+        {
+            "key": "play_join_label_capacity",
+            "value": "Игроков"
+        },
+        {
+            "key": "play_join_btn",
+            "value": "Обновить"
+        },
+        {
+            "key": "play_join_norooms",
+            "value": "Свободных комнат не найдено."
+        },
+        {
+            "key": "play_join_loading",
+            "value": "Загрузка..."
+        },
+        {
+            "key": "play_join_error",
+            "value": "Ошибка поиска."
+        },
+        {
+            "key": "play_join_connecting",
+            "value": "Подождите, идет соединение..."
+        },
+        {
+            "key": "play_join_notconnecting",
+            "value": "Не удалось подключиться к комнате."
+        },
+        {
+            "key": "play_join_joinbtn",
+            "value": "Войти"
+        },
+        {
+            "key": "back_btn",
+            "value": "Назад"
+        },
+        {
+            "key": "lobby_label",
+            "value": "Комната"
+        },
+        {
+            "key": "lobby_player_waiting",
+            "value": "Ожидание игроков"
+        },
+        {
+            "key": "lobby_player_ready",
+            "value": "Готов"
+        },
+        {
+            "key": "lobby_player_notready",
+            "value": "Начать"
+        },
+        {
+            "key": "lobby_status_starting",
+            "value": "Игра начинается через"
+        },
+        {
+            "key": "settings_label",
+            "value": "Настройки игры"
+        },
+        {
+            "key": "settings_general_label",
+            "value": "Общие настройки"
+        },
+        {
+            "key": "settings_general_name",
+            "value": "Имя профиля:"
+        },
+        {
+            "key": "settings_general_sensitivity",
+            "value": "Чувствительность мыши:"
+        },
+        {
+            "key": "settings_general_fov",
+            "value": "Угол обзора (FOV):"
+        },
+        {
+            "key": "settings_general_language",
+            "value": "Язык:"
+        },
+        {
+            "key": "settings_sound_label",
+            "value": "Настройки звука"
+        },
+        {
+            "key": "settings_sound_volume",
+            "value": "Громкость:"
+        },
+        {
+            "key": "settings_graph_label",
+            "value": "Настройки графики"
+        },
+        {
+            "key": "settings_graph_resolution",
+            "value": "Разрешение:"
+        },
+        {
+            "key": "settings_graph_fullscreen",
+            "value": "Полный экран:"
+        },
+        {
+            "key": "settings_graph_quality",
+            "value": "Качество графики:"
+        },
+        {
+            "key": "settings_graph_quality_low",
+            "value": "Низкое"
+        },
+        {
+            "key": "settings_graph_quality_mid",
+            "value": "Среднее"
+        },
+        {
+            "key": "settings_graph_quality_high",
+            "value": "Высокое"
+        },
+        {
+            "key": "pause_leave",
+            "value": "Выйти из игры"
+        },
+        {
+            "key": "pause_continue",
+            "value": "Продолжить"
+        }
+    ]
+}

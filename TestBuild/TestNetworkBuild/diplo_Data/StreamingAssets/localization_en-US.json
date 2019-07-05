@@ -1,0 +1,176 @@
+{
+    "localizationStrings": [
+        {
+            "key": "login_label",
+            "value": "Enter profile name:"
+        },
+        {
+            "key": "login_btn",
+            "value": "Continue"
+        },
+        {
+            "key": "menu_start",
+            "value": "Play"
+        },
+        {
+            "key": "menu_settings",
+            "value": "Settings"
+        },
+        {
+            "key": "menu_quit",
+            "value": "Quit"
+        },
+        {
+            "key": "menu_bot",
+            "value": "About"
+        },
+        {
+            "key": "play_create_label",
+            "value": "Create room"
+        },
+        {
+            "key": "play_create_name_placeholder",
+            "value": "Enter room's name..."
+        },
+        {
+            "key": "play_create_password_placeholder",
+            "value": "Enter password..."
+        },
+        {
+            "key": "play_create_btn",
+            "value": "Create"
+        },
+        {
+            "key": "play_join_label",
+            "value": "Join room"
+        },
+        {
+            "key": "play_join_label_name",
+            "value": "Room name"
+        },
+        {
+            "key": "play_join_label_capacity",
+            "value": "Players"
+        },
+        {
+            "key": "play_join_btn",
+            "value": "Refresh"
+        },
+        {
+            "key": "play_join_norooms",
+            "value": "No rooms have been found."
+        },
+        {
+            "key": "play_join_loading",
+            "value": "Loading..."
+        },
+        {
+            "key": "play_join_error",
+            "value": "Error trying to find a game."
+        },
+        {
+            "key": "play_join_connecting",
+            "value": "Waiting to connect..."
+        },
+        {
+            "key": "play_join_notconnecting",
+            "value": "Couldn't connect to the room."
+        },
+        {
+            "key": "play_join_joinbtn",
+            "value": "Join"
+        },
+        {
+            "key": "back_btn",
+            "value": "Back"
+        },
+        {
+            "key": "lobby_label",
+            "value": "Room"
+        },
+        {
+            "key": "lobby_player_waiting",
+            "value": "Waiting for players"
+        },
+        {
+            "key": "lobby_player_ready",
+            "value": "Ready"
+        },
+        {
+            "key": "lobby_player_notready",
+            "value": "Start"
+        },
+        {
+            "key": "lobby_status_starting",
+            "value": "Game is starting in"
+        },
+        {
+            "key": "settings_label",
+            "value": "Game settings"
+        },
+        {
+            "key": "settings_general_label",
+            "value": "General"
+        },
+        {
+            "key": "settings_general_name",
+            "value": "Profile name:"
+        },
+        {
+            "key": "settings_general_sensitivity",
+            "value": "Mouse sensitivity:"
+        },
+        {
+            "key": "settings_general_fov",
+            "value": "Field of view:"
+        },
+        {
+            "key": "settings_general_language",
+            "value": "Language:"
+        },
+        {
+            "key": "settings_sound_label",
+            "value": "Sound"
+        },
+        {
+            "key": "settings_sound_volume",
+            "value": "Volume:"
+        },
+        {
+            "key": "settings_graph_label",
+            "value": "Graphics"
+        },
+        {
+            "key": "settings_graph_resolution",
+            "value": "Resolution:"
+        },
+        {
+            "key": "settings_graph_fullscreen",
+            "value": "Fullscreen:"
+        },
+        {
+            "key": "settings_graph_quality",
+            "value": "Quality settings:"
+        },
+        {
+            "key": "settings_graph_quality_low",
+            "value": "Low"
+        },
+        {
+            "key": "settings_graph_quality_mid",
+            "value": "Medium"
+        },
+        {
+            "key": "settings_graph_quality_high",
+            "value": "High"
+        },
+        {
+            "key": "pause_leave",
+            "value": "Quit game"
+        },
+        {
+            "key": "pause_continue",
+            "value": "Continue"
+        }
+    ]
+}
